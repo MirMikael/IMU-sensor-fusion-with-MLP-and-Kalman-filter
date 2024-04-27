@@ -7,4 +7,4 @@ Output layer: 2 neurons with linear activation function.<br>
 The backpropagation (BP) algorithm has been utilized to train this NN.<br>
 Its optimization function is gradient descent (GD), and its cost function is mean squared error (MSE).<br>
 
-This code is written in C language, but due to the requirements of Arduino's framework, some C++ functions are used in it, but the distinctive features of C Plus Plus, such as object orientation, are not present in it.
+This code is written in C language, but due to the requirements of Arduino's framework, some C++ functions are used in it, but the distinctive features of C++, such as object orientation, are not present in it.
