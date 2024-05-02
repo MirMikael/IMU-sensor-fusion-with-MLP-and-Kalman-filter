@@ -8,4 +8,4 @@ The backpropagation <strong>(BP)</strong> algorithm has been utilized to train t
 Its optimization function is gradient descent <strong>(GD)</strong>, and its cost function is mean squared error <strong>(MSE)</strong>.<br>
 
 This code is written in <strong>C</strong> language, but due to the requirements of Arduino's framework, some <strong>C++</strong> functions are used in it, but the distinctive features of C++, such as object orientation, are not present in it.<br>
-For quastions: <a href="https://mirmikael.github.io/" target="_blank">MirMikael.github.io</a>
+<strong>For quastions:</strong> <a href="https://mirmikael.github.io/" target="_blank">MirMikael.github.io</a>
