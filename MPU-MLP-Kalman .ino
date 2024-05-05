@@ -1,3 +1,6 @@
+// Created by Mir Mikael
+// For quastions: MirMikael.github.io
+
 #include <MPU9250_asukiaaa.h>
 #include <stdio.h>
 #include <stdlib.h>
